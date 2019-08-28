@@ -1,6 +1,6 @@
 # include <iostream>
 
 int main() {
-    std::cout << "Hellow World!" << std::endl;
+    std::cout << "FightOn!" << std::endl;
     
 }
